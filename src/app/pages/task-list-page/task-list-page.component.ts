@@ -1,7 +1,7 @@
 import{Component, OnInit}from '@angular/core';
 
-import {TodoService}from '../../services/todo.service';
-import {Todo}from '../../models/todo';
+import {TodoService} from '../../services/todo.service';
+import {Todo} from '../../models/todo';
 
 @Component({
   selector: 'app-task-list-page',
